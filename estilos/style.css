@@ -35,6 +35,16 @@ section#telefone {
     background: url('../imagens/frame-iphone.png') no-repeat;
 }
 
+iframe#tela {
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
+}
+
+/*
+Minha solução para colocar os app na tela do cell
 section#app {
     position: absolute;
     top: 50%;
@@ -45,4 +55,4 @@ section#app {
 
     height: 468px;
     width: 266px;
-}
+}*/
